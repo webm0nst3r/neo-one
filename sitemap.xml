@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://neo-one.io/help.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://neo-one.io/en/help.html" /> </url>
+<url> <loc>https://neo-one.io/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://neo-one.io/en/index.html" /> </url>
+<url> <loc>https://neo-one.io/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://neo-one.io/en/users.html" /> </url>
+<url> <loc>https://neo-one.io/blog/2017/12/27/Introducing-NEO-ONE.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://neo-one.io/docs/en/cli-installation.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://neo-one.io/docs/en/cli-installation.html" /> </url>
+<url> <loc>https://neo-one.io/docs/en/code-of-conduct.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://neo-one.io/docs/en/code-of-conduct.html" /> </url>
+<url> <loc>https://neo-one.io/docs/en/codebase-overview.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://neo-one.io/docs/en/codebase-overview.html" /> </url>
+<url> <loc>https://neo-one.io/docs/en/contributing.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://neo-one.io/docs/en/contributing.html" /> </url>
+<url> <loc>https://neo-one.io/docs/en/environment-setup.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://neo-one.io/docs/en/environment-setup.html" /> </url>
+</urlset>

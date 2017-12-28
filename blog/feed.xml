@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>NEO•ONE Blog</title>
+        <link>https://neo-one.io/blog</link>
+        <description>The best place to stay up-to-date with the latest NEO•ONE news and events.</description>
+        <lastBuildDate>Wed, 27 Dec 2017 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>NEO•ONE Blog</title>
+            <url>https://neo-one.ioimg/neo.svg</url>
+            <link>https://neo-one.io/blog</link>
+        </image>
+        <copyright>Copyright © 2017 NEO ONE</copyright>
+        <item>
+            <title><![CDATA[Introducing NEO•ONE]]></title>
+            <link>https://neo-one.io/blog/2017/12/27/Introducing-NEO-ONE.html</link>
+            <guid>https://neo-one.io/blog/2017/12/27/Introducing-NEO-ONE.html</guid>
+            <pubDate>Wed, 27 Dec 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[This is just a test blog post to setup the website. We'll announce NEO•ONE soon!]]></description>
+        </item>
+    </channel>
+</rss>

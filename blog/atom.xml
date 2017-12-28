@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://neo-one.io/blog</id>
+    <title>NEO•ONE Blog</title>
+    <updated>2017-12-27T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://neo-one.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest NEO•ONE news and events.</subtitle>
+    <logo>https://neo-one.ioimg/neo.svg</logo>
+    <rights>Copyright © 2017 NEO ONE</rights>
+    <entry>
+        <title type="html"><![CDATA[Introducing NEO•ONE]]></title>
+        <id>https://neo-one.io/blog/2017/12/27/Introducing-NEO-ONE.html</id>
+        <link href="https://neo-one.io/blog/2017/12/27/Introducing-NEO-ONE.html">
+        </link>
+        <updated>2017-12-27T06:00:00Z</updated>
+        <summary type="html"><![CDATA[This is just a test blog post to setup the website. We'll announce NEO•ONE soon!]]></summary>
+        <author>
+            <name>Alex DiCarlo</name>
+            <uri>https://twitter.com/alexdicarlo4</uri>
+        </author>
+    </entry>
+</feed>
