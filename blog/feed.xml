@@ -9,10 +9,10 @@
         <generator>Feed for Node.js</generator>
         <image>
             <title>NEO•ONE Blog</title>
-            <url>https://neo-one.ioimg/neo.svg</url>
+            <url>https://neo-one.io/img/logo.svg</url>
             <link>https://neo-one.io/blog</link>
         </image>
-        <copyright>Copyright © 2018 NEO ONE</copyright>
+        <copyright>Copyright © 2018 NEO•ONE</copyright>
         <item>
             <title><![CDATA[Introducing NEO•ONE]]></title>
             <link>https://neo-one.io/blog/2017/12/27/Introducing-NEO-ONE.html</link>
